@@ -16,6 +16,6 @@ void main() {
   } else if (number < 10) {
     print("Your number is less than 10");
   } else {
-    print("Your number is equal to 10");
+    print("Your number is equql to 10");
   }
-}
+  }
